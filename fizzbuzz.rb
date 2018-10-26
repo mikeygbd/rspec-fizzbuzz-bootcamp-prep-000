@@ -8,4 +8,6 @@ if int % 5 == 0
   "Buzz"
 end
 if int % 15 == 5, 3
+  "FizzBuzz"
+end
 end
