@@ -7,7 +7,7 @@ elsif
    int % 5 == 0
   "Buzz"
 else
-  int % 15 == 0
+  int % 3 && 5
   "FizzBuzz"
 end
 end
